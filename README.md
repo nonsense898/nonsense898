@@ -72,18 +72,46 @@ Passionate Android developer with a focus on creating elegant, user-friendly mob
 
 ## 🌟 Featured Projects
 
-### 📱 [Project Name 1]
-An innovative Android app that [brief description].
-- **Tech stack**: Kotlin, MVVM, Jetpack Compose
-- **Features**: [key features]
-- [Link to repository]
+# 💧 Water Intake Tracking App
 
-### 🎯 [Project Name 2]
-A powerful tool for [brief description].
-- **Tech stack**: Kotlin, Clean Architecture, Coroutines
-- **Features**: [key features]
-- [Link to repository]
+An app designed to help users stay hydrated by tracking water intake and providing smart reminders.
 
+## 🚀 Features
+
+- **Google and Facebook Authentication** – Seamless login experience.
+- **User Profile System** – Input personal details like name, age, and weight.
+- **Smart Reminders** – Local notifications remind users to drink water, with an option to mute at night.
+- **Data Management** – CRUD operations for user data with statistics (daily, weekly, monthly).
+- **Firebase Integration** – Real-time data synchronization between local and remote databases.
+
+## 📱 Screenshots
+
+| Main Screen | Progress Widget | Reminder Screen | Goals Dialogs | Pro Advantages |
+|------------|----------------|-----------------|---------------|---------------|
+| <img src="images/image_original-7.png" width="150"> | <img src="images/image_original-8.png" width="150"> | <img src="images/image_original-9.png" width="150"> | <img src="images/image_original-10.png" width="150"> | <img src="images/image_original-11.png" width="150"> |
+
+---
+
+
+# 🚗 Dozor Pilot App  
+
+A mobile application designed to assist drivers in the **public sector** by optimizing routes and improving navigation.
+
+## 🚀 Features  
+
+- **Route Management** – Developed logic for interacting with routes.
+- **Data Parsing** – Responsible for processing and handling route-related data.
+- **Dialogs & UI Development** – Displaying relevant dialogs and enhancing user experience.
+- **API Integration** – Integrated third-party APIs for real-time route updates.
+- **Performance Optimization** – Improved efficiency and app responsiveness.
+
+---
+
+## 📱 Screenshots
+
+| Login Screen | Driver Screen | Route - Info 1/2 | Route - Info 2/2 | Route Planner | Route Details |
+|-------------|--------------|-------------|--------------|--------------|-------|
+| <img src="images/image_original.png" width="150"> | <img src="images/image_original-2.png" width="150"> | <img src="images/image_original-3.png" width="150"> | <img src="images/image_original-4.png" width="150"> | <img src="images/image_original-5.png" width="150"> | <img src="images/image_original-6.png" width="150"> |
 
 ## 🎯 Current Focus
 - Exploring Jetpack Compose animations and custom layouts
