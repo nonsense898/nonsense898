@@ -38,6 +38,7 @@ Passionate Android developer with a focus on creating elegant, user-friendly mob
 # 💧 Water Intake Tracking App
 
 An app designed to help users stay hydrated by tracking water intake and providing smart reminders.
+(Source code under NDA)
 
 ## 🚀 Features
 
@@ -59,6 +60,8 @@ An app designed to help users stay hydrated by tracking water intake and providi
 # 🚗 Dozor Pilot App  
 
 A mobile application designed to assist drivers in the **public sector** by optimizing routes and improving navigation.
+(Source code under NDA)
+
 
 ## 🚀 Features  
 
@@ -79,6 +82,8 @@ A mobile application designed to assist drivers in the **public sector** by opti
 # 🎬 Movie App
 
 A mobile application designed to browse and discover movies.
+[View the source code on GitHub](https://github.com/nonsense898/DozorTest)
+
 
 ## 🚀 Features
 
@@ -94,8 +99,8 @@ A mobile application designed to browse and discover movies.
     - Description
     - Rating (e.g., IMDb)
 - **API Integration:** Integrates with a movie database API (e.g., TMDb, OMDb) to fetch movie data.
-- **UI/UX Design:** Focuses on a user-friendly and intuitive interface for easy navigation and movie discovery.  (Optional: You could mention specific UI elements or design principles you followed).
-- **(Optional) Advanced Features:**
+- **UI/UX Design:** Focuses on a user-friendly and intuitive interface for easy navigation and movie discovery.
+- **Advanced Features:**
     - Watchlist functionality
     - Trailer playback
 
