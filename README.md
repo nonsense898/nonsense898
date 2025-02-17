@@ -1,4 +1,4 @@
-а# 👋 Hello, I'm Vladyslav Kolodii
+# 👋 Hello, I'm Vladyslav Kolodii
 ### Android Developer | Kotlin Enthusiast | Open Source Contributor
 
 ![Android Development](https://img.shields.io/badge/Android-Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
