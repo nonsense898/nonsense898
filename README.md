@@ -22,6 +22,17 @@ Passionate Android developer with a focus on creating elegant, user-friendly mob
 ![UI Development](https://img.shields.io/badge/UI_Development-9C27B0?style=for-the-badge&logo=android&logoColor=white)
 ![API Integration](https://img.shields.io/badge/API_Integration-00BCD4?style=for-the-badge&logo=android&logoColor=white)
 
+### 🎬 Movie App
+![Movie List](https://img.shields.io/badge/Movie_Listing-FF9800?style=for-the-badge&logo=android&logoColor=white)
+![Popular Movies](https://img.shields.io/badge/Popular_Movies-FFEB3B?style=for-the-badge&logo=android&logoColor=white)
+![Genre Browsing](https://img.shields.io/badge/Genre_Browsing-4CAF50?style=for-the-badge&logo=android&logoColor=white)
+![Search Functionality](https://img.shields.io/badge/Search-3F51B5?style=for-the-badge&logo=android&logoColor=white)
+![Local Storage](https://img.shields.io/badge/Local_Storage-9E9E9E?style=for-the-badge&logo=android&logoColor=white)
+![Movie Details](https://img.shields.io/badge/Movie_Details-795548?style=for-the-badge&logo=android&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-00BCD4?style=for-the-badge&logo=android&logoColor=white)
+![Trailer Playback](https://img.shields.io/badge/Trailer_Playback-FF5722?style=for-the-badge&logo=youtube&logoColor=white)
+
+
 ## 🌟 Featured Projects
 
 # 💧 Water Intake Tracking App
@@ -40,7 +51,7 @@ An app designed to help users stay hydrated by tracking water intake and providi
 
 | Main Screen | Progress Widget | Reminder Screen | Goals Dialogs | Pro Advantages |
 |------------|----------------|-----------------|---------------|---------------|
-| <img src="images/image_original-7.png" width="150"> | <img src="images/image_original-8.png" width="150"> | <img src="images/image_original-9.png" width="150"> | <img src="images/image_original-10.png" width="150"> | <img src="images/image_original-11.png" width="150"> |
+| <img src="images/image_original-7.png" width="150"> | <img src="images/image_original-8.png" width="150"> | <img src="images/image_original-9.png" width="150"> | <img src="images/image_original-10.png" width="150"> | <img src="images/image_original-111.png" width="150"> |
 
 ---
 
@@ -64,6 +75,39 @@ A mobile application designed to assist drivers in the **public sector** by opti
 | Login Screen | Driver Screen | Route - Info 1/2 | Route - Info 2/2 | Route Planner | Route Details |
 |-------------|--------------|-------------|--------------|--------------|-------|
 | <img src="images/image_original.png" width="150"> | <img src="images/image_original-2.png" width="150"> | <img src="images/image_original-3.png" width="150"> | <img src="images/image_original-4.png" width="150"> | <img src="images/image_original-5.png" width="150"> | <img src="images/image_original-6.png" width="150"> |
+
+# 🎬 Movie App
+
+A mobile application designed to browse and discover movies.
+
+## 🚀 Features
+
+- **Movie Listing:** Displays a list of movies, potentially with pagination or infinite scrolling.
+- **Popular Movies:** Showcases a curated list of currently popular or trending movies.
+- **Genre-Based Browsing:** Allows users to browse movies by genre (e.g., Action, Comedy, Drama).
+- **Search Functionality:** Enables users to search for movies by title, actor, director, or keyword.
+- **Local Storage:** Caches movie data locally for offline access and improved performance.
+- **Movie Details:** Provides detailed information about each movie, including:
+    - Title
+    - Poster image
+    - Genre(s)
+    - Description
+    - Rating (e.g., IMDb)
+- **API Integration:** Integrates with a movie database API (e.g., TMDb, OMDb) to fetch movie data.
+- **UI/UX Design:** Focuses on a user-friendly and intuitive interface for easy navigation and movie discovery.  (Optional: You could mention specific UI elements or design principles you followed).
+- **(Optional) Advanced Features:**
+    - Watchlist functionality
+    - Trailer playback
+
+---
+
+## 📱 Screenshots
+
+| Movie List | Movie List | Placeholder | Placeholder | Movie Details | Trailer Playback |
+|------------|----------------|------------|----------------|---------------|-----------------------|
+| <img src="images/image_original-11.png" width="150"> | <img src="images/image_original-12.png" width="150"> | <img src="images/image_original-13.png" width="150"> | <img src="images/image_original-14.png" width="150"> | <img src="images/image_original-15.png" width="150"> | <img src="images/image_original-16.png" width="150"> |
+
+---
 
 ## 🛠 Technology Stack
 
