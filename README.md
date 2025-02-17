@@ -114,6 +114,9 @@ A mobile application designed to browse and discover movies.
 
 ---
 
+[▶ Watch the app demo](https://youtube.com/shorts/Ii2bJ6sRi5E?feature=share)
+
+
 ## 🛠 Technology Stack
 
 ### Architecture & Design Patterns
